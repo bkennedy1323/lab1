@@ -6,6 +6,9 @@ class Program
 {
     static void Main(string[] args)
     {
+        /*My name is Blake Kennedy
+        and this is my lab1 Project */
+        
         // Step 2/3/5 strings, constants, int
         const string mySchool = "Tri C";
         int myNum = 15;
